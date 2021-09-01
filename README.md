@@ -5,4 +5,4 @@
 3. List Data structure & it functions
 4. Tuple data structure & its functions
 5. Number Conversion & Immutable Nature in Python
-6. Python Literals
+6. <a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Tuple%20Data%20Structures.ipynb">Python Literals</a>
