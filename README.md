@@ -7,4 +7,5 @@
 5. <a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/List%20Data%20Structure.ipynb">List Data structure & it functions</a>
 6. <a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Python%20Literals.ipynb">Python Literals</a>
 7. <a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Dictionary%20Notes.ipynb">Dictionaries in Python </a>
-8. <a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Files%20in%20python-notes.ipynb">Files in Python </a>
+8. <a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Math%20module.ipynb">Math Module</a>
+9. <a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Files%20in%20python-notes.ipynb">Files in Python </a>
