@@ -10,4 +10,5 @@
 8. <a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Python%20Literals.ipynb">Python Literals</a>
 9. <a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Dictionary%20Notes.ipynb">Dictionaries in Python </a>
 10. <a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Math%20module.ipynb">Math Module</a>
-11. <a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Files%20in%20python-notes.ipynb">Files in Python </a>
+11. <a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Functions%20in%20python.pdf"> Functions in python</a>
+12. <a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Files%20in%20python-notes.ipynb">Files in Python </a>
