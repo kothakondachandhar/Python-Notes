@@ -1,7 +1,7 @@
 # Python-Notes
 
 1. Python Introduction 
-2. <a href=""> Variables & Datatypes in Python</a>
+2. <a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Variables%20%26%20Data%20types%20in%20Python.ipynb"> Variables & Datatypes in Python</a>
 3. <a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Type%20Casting%20in%20Python.ipynb">Type Casting in Python</a>
 4. <a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Python%20Operators.pdf"> Python Operators</a>
 5. <a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Strings%20-%20in%20Python.ipynb">Strings & its operation</a>
