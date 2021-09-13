@@ -2,7 +2,7 @@
 
 1. Python Introduction 
 2. <a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Python%20IDLE%20Installation%20%26%20Sample%20Program%20Execution.pdf">Python - IDLE installation Steps & Sample Program Execution</a>
-3. <a href="">Character Set</a>
+3. <a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Character%20Set.pdf">Character Set</a>
 4. <a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Variables%20%26%20Data%20types%20in%20Python.ipynb"> Variables & Datatypes in Python</a>
 5. <a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Type%20Casting%20in%20Python.ipynb">Type Casting in Python</a>
 6. <a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Python%20Operators.pdf"> Python Operators</a>
