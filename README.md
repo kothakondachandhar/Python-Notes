@@ -9,7 +9,7 @@
 7. <a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Variables%20%26%20Data%20types%20in%20Python.ipynb"> Variables & Datatypes in Python</a>
 8. <a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Type%20Casting%20in%20Python.ipynb">Type Casting in Python</a>
 9. <a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Python%20Operators.pdf"> Python Operators</a>
-10. <a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Strings%20-%20in%20Python.ipynb">Strings & its operation</a>
+10. <a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Strings%20-%20in%20Python.ipynb">Strings, Accessing strings (index, slice ) & its operation</a>
 11. <a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Converting_Numbering_System_%26_Basic_Data_types_and_Immutability_Nature.ipynb"> Number Conversion & Immutable Nature in Python</a>
 12. <a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Tuple%20Data%20Structures.ipynb">Tuple data structure & its functions</a>
 13. <a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/List%20Data%20Structure.ipynb">List Data structure & it functions</a>
