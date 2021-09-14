@@ -2,7 +2,7 @@
 
 1. Python Introduction 
 2. <a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Python%20IDLE%20Installation%20%26%20Sample%20Program%20Execution.pdf">Python - IDLE installation Steps & Sample Program Execution</a>
-3.<a href="">Anaconda - IDE Installation Step </a>
+3. <a href="">Anaconda - IDE Installation Step </a>
 4. <a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Character%20Set.pdf">Character Set</a>
 5. <a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Identifiers%20in%20Python.pdf">Identifers in Python</a>
 6. <a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Keywords%20in%20Python.pdf">Keywords in Python</a>
