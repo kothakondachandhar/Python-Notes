@@ -1,7 +1,7 @@
 # Python-Notes
 
 1. Python Introduction 
-2. <a href="">Python Fetures </a>
+2. <a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Python%20Featurs.pdf">Python Features </a>
 3. <a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Python%20IDLE%20Installation%20%26%20Sample%20Program%20Execution.pdf">Python - IDLE installation Steps & Sample Program Execution</a>
 4. <a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Anaconda%20Installation%20Steps.pdf">Anaconda - IDE Installation Step </a>
 5. <a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Character%20Set.pdf">Character Set</a>
