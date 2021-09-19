@@ -19,5 +19,5 @@
 17. <a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Math%20module.ipynb">Math Module</a>
 18. <a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Functions%20in%20python.pdf"> Functions in python</a>
 19. <a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Files%20in%20python-notes.ipynb">Files in Python </a>
-20. <a href=""> Python - MySQL Database Connection </a>
+20. <a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Python%20MySQL%20Database%20Connection%20using%20MySQL%20Connector.ipynb"> Python - MySQL Database Connection </a>
 
