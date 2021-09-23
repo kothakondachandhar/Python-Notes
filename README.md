@@ -1,10 +1,5 @@
 # Python-Notes
 
-<ul>
-  <li>Hi</li>
-  <li>Hello</li>
-  
-  </ul>
 
 
 1. Python Introduction 
