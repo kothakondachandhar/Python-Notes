@@ -26,7 +26,7 @@
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Files%20in%20python-notes.ipynb">Files in Python </a></li>
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Python%20MySQL%20Database%20Connection%20using%20MySQL%20Connector.ipynb"> Python - MySQL Database Connection </a></li>
   
- Object Oriented Concepts
+  <br><br><h1>Object Oriented Concepts</h1>
   
   
   <li>****************</li>
