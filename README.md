@@ -25,6 +25,10 @@
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Exceptions%20in%20Python.ipynb"> Exceptions in python</a></li>
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Files%20in%20python-notes.ipynb">Files in Python </a></li>
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Python%20MySQL%20Database%20Connection%20using%20MySQL%20Connector.ipynb"> Python - MySQL Database Connection </a></li>
+  
+ Object Oriented Concepts
+  
+  
   <li>****************</li>
   
   <li><a href="https://raw.githack.com/kothakondachandhar/Python-Notes/main/a.html">List Of 100 Sample Programs</li>
