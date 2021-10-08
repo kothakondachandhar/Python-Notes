@@ -54,6 +54,10 @@
  <br><br><h1>File Handling</h1>
 
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Files%20in%20python-notes.ipynb">Files in Python </a></li>
+ 
+ 
+<br><br><h1>Python & MySql Database Connection</h1>
+ 
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Python%20MySQL%20Database%20Connection%20using%20MySQL%20Connector.ipynb"> Python - MySQL Database Connection </a></li>
   
   <br><br><h1>Object Oriented Concepts</h1>
