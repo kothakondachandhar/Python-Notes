@@ -4,11 +4,15 @@
 <ol>
 <li>Python Introduction </li>
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Python%20Featurs.pdf">Python Features </a></li>
+ 
   
- <br><br><h1>Python Solftware Tools & Installation Steps:</h1>
+  <br><br><h1>Python Solftware Tools & Installation Steps:</h1>
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Python%20IDLE%20Installation%20%26%20Sample%20Program%20Execution.pdf">Python - IDLE installation Steps & Sample Program Execution</a></li>
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Anaconda%20Installation%20Steps.pdf">Anaconda - IDE Installation Step </a></li>
-<li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Character%20Set.pdf">Character Set</a></li>
+
+   <br><br><h1>Python Fundamentals:</h1>
+  
+ <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Character%20Set.pdf">Character Set</a></li>
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Identifiers%20in%20Python.pdf">Identifers in Python</a></li>
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Keywords%20in%20Python.pdf">Keywords in Python</a></li>
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Variables%20%26%20Data%20types%20in%20Python.ipynb"> Variables & Datatypes in Python</a></li>
