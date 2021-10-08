@@ -16,7 +16,7 @@
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Strings%20-%20in%20Python.ipynb">Strings, Accessing strings (index, slice ) & its operation</a></li>
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Converting_Numbering_System_%26_Basic_Data_types_and_Immutability_Nature.ipynb"> Number Conversion & Immutable Nature in Python</a></li>
   
-    <br><br><h1>Control Structures</h1>
+<br><br><h1>Control Structures</h1>
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Flow%20Controls%20-%20Conditional%20Statements.ipynb">Flow Controls - Conditional Statements</a></li>
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Flow%20Controls%20-%20Loops%20%20or%20Iterative%20Statements.ipynb">Flow Controls - Loops/Iterative Statements</a></li>
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Nested%20Loops%20in%20python.ipynb">Nested while and for loops</a></li>
