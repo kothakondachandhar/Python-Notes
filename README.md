@@ -65,9 +65,11 @@
   
   <li>****************</li>
  
- <br><br><h1>Practicing Programs - Python 2 Environments</h1>
+ <br><br><h1>Practicing Programs -</h1>
+ 
+ https://github.com/kothakondachandhar/Python-Notes/blob/main/Student%20Information%20System%20.ipynb
 
-  
+  <li><a href=" https://github.com/kothakondachandhar/Python-Notes/blob/main/Student%20Information%20System%20.ipynb">List Of 100 Sample Programs</li>
   <li><a href="https://raw.githack.com/kothakondachandhar/Python-Notes/main/a.html">List Of 100 Sample Programs</li>
 </ol>
 
