@@ -20,7 +20,8 @@
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Flow%20Controls%20-%20Conditional%20Statements.ipynb">Flow Controls - Conditional Statements</a></li>
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Flow%20Controls%20-%20Loops%20%20or%20Iterative%20Statements.ipynb">Flow Controls - Loops/Iterative Statements</a></li>
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Nested%20Loops%20in%20python.ipynb">Nested while and for loops</a></li>
-  
+ 
+ <br><br><h1>Data Structures in python</h1>
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Tuple%20Data%20Structures.ipynb">Tuple data structure & its functions</a></li>
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/List%20Data%20Structure.ipynb">List Data structure & it functions</a></li>
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Dictionary%20Notes.ipynb">Dictionaries in Python </a></li>
