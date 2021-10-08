@@ -17,6 +17,8 @@
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Converting_Numbering_System_%26_Basic_Data_types_and_Immutability_Nature.ipynb"> Number Conversion & Immutable Nature in Python</a></li>
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Flow%20Controls%20-%20Conditional%20Statements.ipynb">Flow Controls - Conditional Statements</a></li>
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Flow%20Controls%20-%20Loops%20%20or%20Iterative%20Statements.ipynb">Flow Controls - Loops/Iterative Statements</a></li>
+<li><a href="">Nested while and for loops</a></li>
+  
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Tuple%20Data%20Structures.ipynb">Tuple data structure & its functions</a></li>
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/List%20Data%20Structure.ipynb">List Data structure & it functions</a></li>
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Dictionary%20Notes.ipynb">Dictionaries in Python </a></li>
