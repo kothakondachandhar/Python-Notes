@@ -32,9 +32,9 @@
  <br><br><h1>Data Structures in python</h1>
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/List%20Data%20Structure.ipynb">List Data structure & it functions</a></li>
  <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Tuple%20Data%20Structures.ipynb">Tuple data structure & its functions</a></li>
-
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Dictionary%20Notes.ipynb">Dictionaries in Python </a></li>
- 
+<li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Set%20Data%20Structures%20-%20class%20notes.ipynb"> Sets in Python </a></li>
+  
  
 <br><br><h1>Modules in Python</h1>
  
