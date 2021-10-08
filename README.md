@@ -30,9 +30,14 @@
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Nested%20Loops%20in%20python.ipynb">Nested while and for loops</a></li>
  
  <br><br><h1>Data Structures in python</h1>
-<li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Tuple%20Data%20Structures.ipynb">Tuple data structure & its functions</a></li>
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/List%20Data%20Structure.ipynb">List Data structure & it functions</a></li>
+ <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Tuple%20Data%20Structures.ipynb">Tuple data structure & its functions</a></li>
+
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Dictionary%20Notes.ipynb">Dictionaries in Python </a></li>
+ 
+ 
+<br><br><h1>Modules in Python</h1>
+ 
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Math%20module.ipynb">Math Module</a></li>
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Functions%20in%20python.pdf"> Functions in python</a></li>
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Exceptions%20in%20Python.ipynb"> Exceptions in python</a></li>
