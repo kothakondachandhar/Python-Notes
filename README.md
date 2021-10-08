@@ -19,8 +19,10 @@
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Type%20Casting%20in%20Python.ipynb">Type Casting in Python</a></li>
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Python%20Literals.ipynb">Python Literals</a></li>
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Python%20Operators.pdf"> Python Operators</a></li>
-<li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Strings%20-%20in%20Python.ipynb">Strings, Accessing strings (index, slice ) & its operation</a></li>
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Converting_Numbering_System_%26_Basic_Data_types_and_Immutability_Nature.ipynb"> Number Conversion & Immutable Nature in Python</a></li>
+
+<br><br><h1>Strings in Python</h1> 
+ <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Strings%20-%20in%20Python.ipynb">Strings, Accessing strings (index, slice ) & its operation</a></li>
   
 <br><br><h1>Control Structures</h1>
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Flow%20Controls%20-%20Conditional%20Statements.ipynb">Flow Controls - Conditional Statements</a></li>
