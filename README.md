@@ -39,8 +39,20 @@
 <br><br><h1>Modules in Python</h1>
  
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Math%20module.ipynb">Math Module</a></li>
+ 
+ 
+ <br><br><h1>Functions in python</h1>
+
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Functions%20in%20python.pdf"> Functions in python</a></li>
+ 
+ 
+ <br><br><h1>Exception Handling</h1>
+
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Exceptions%20in%20Python.ipynb"> Exceptions in python</a></li>
+ 
+ 
+ <br><br><h1>File Handling</h1>
+
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Files%20in%20python-notes.ipynb">Files in Python </a></li>
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Python%20MySQL%20Database%20Connection%20using%20MySQL%20Connector.ipynb"> Python - MySQL Database Connection </a></li>
   
