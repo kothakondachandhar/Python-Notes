@@ -61,6 +61,8 @@
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Python%20MySQL%20Database%20Connection%20using%20MySQL%20Connector.ipynb"> Python - MySQL Database Connection </a></li>
   
   <br><br><h1>Object Oriented Concepts</h1>
+ 
+ <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Inheritance.ipynb"> What is Inheritance, advantagess and Inheritance Types</a></li>
   
   
   <li>****************</li>
