@@ -63,6 +63,8 @@
   <br><br><h1>Object Oriented Concepts</h1>
  
  <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Inheritance.ipynb"> What is Inheritance, advantagess and Inheritance Types</a></li>
+  <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Examples%20for%20Inheritance.ipynb"> Example for single, mulitple , multilevel , heirarchical and hybrid inheritance</a></li>
+
   
   
   <li>****************</li>
