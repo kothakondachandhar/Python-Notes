@@ -75,7 +75,7 @@
  <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Constructors%20in%20Python.ipynb">Constructors in Python</a></li>
 
   
-  <br><br><h1>MultThreading in Python</h1>
+  <br><br><h1>Multithreading in Python</h1>
  
 <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/basics%20of%20multi%20threading.ipynb "> Introduction to Multithreading</a></li>
  <li><a href="https://github.com/kothakondachandhar/Python-Notes/blob/main/Multithreading%20using%20functions%20.ipynb"> Multithreading using - functions </a></li>
