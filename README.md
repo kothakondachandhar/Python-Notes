@@ -1,5 +1,6 @@
 # Python-Notes
 
+<a href="https://youtube.com/playlist?list=PLhtDCC8CljNvxUFBWxIz1Ms84phniEaB-&si=vVAYhJCUHlJ0GZ7e"> Click here to see the youtube classes on these course</a>
 
 <ol>
 <li>Python Introduction </li>
