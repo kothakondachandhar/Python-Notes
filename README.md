@@ -93,7 +93,7 @@
  <li><a href=""> Bank Customer Information System uisng - Excel</li>    
   
      
-  <li><a href="https://raw.githack.com/kothakondachandhar/Python-Notes/main/a.html">List Of 100 Sample Programs</li>
+  <li><a href="https://raw.githack.com/kothakondachandhar/Python-Notes/main/a.html">List Of 100 Sample Programs (python 2 version program)</li>
 </ol>
 
 
